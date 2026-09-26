@@ -111,4 +111,4 @@ df["DBSCAN"] = db_pred
 
 df.to_excel(OUTPUT_PATH, index=False)
 
-print("\nSaved to:", OUTPUT_PATH)
+print("\nSaved to file:", OUTPUT_PATH)
