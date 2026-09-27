@@ -57,14 +57,15 @@ fraud-detection-ml/
 ```
 ## ⚙️ Установка
 
-```bash
+```
 git clone https://github.com/fedukliza21-dot/fraud-detection-ml.git
 cd fraud-detection-ml
 
 python -m venv .venv
 .venv\Scripts\activate
 
-pip install -r requirements.txt ```
+pip install -r requirements.txt
+```
 
 ## ▶️ Запуск ML pipeline
 ```
